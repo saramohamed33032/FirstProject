@@ -1,0 +1,67 @@
+.content{
+    
+    background-color: #E9EAEF;
+    width: 50%;
+    margin: auto;
+    height: 550px;
+}
+.content h1{
+    color: #000;
+    text-align: left;
+    padding:30px 0 0 30px; 
+   
+    
+}
+.content p {
+    color: #706A6C;
+    text-align: left;
+    padding-left:30px;   
+    font-size:18px; 
+     
+    
+}
+form{
+    padding-left:30px; 
+    padding-top:10px;
+    width:400px; 
+    
+}
+.content input[type = text],input[type = password],input[type = number],input[type = month]{
+    background-color: #fff;
+    color: #D7DAD9;
+    padding:8px;
+    border: 1px solid #D7DAD9;
+    border-radius:5px; 
+    margin: 5px;
+    
+    
+    
+}
+form label{ 
+    color: #706A6C;
+    text-align: left;
+    padding: 30px 30px 20px 10px; 
+    
+}
+.content input[type = radio]{
+   margin:10px;
+    
+}
+.content input[type = button]{
+    background-color:#609B4B;
+    padding:10px 50px; 
+    margin-left:50px; 
+    border-radius:10px;
+    border: none;
+    color:#fff;
+    font-size:17px; 
+}
+.content input[type = button]:hover{
+   background-color:green ;
+}
+
+span{
+    color:blue;
+     
+}
+
